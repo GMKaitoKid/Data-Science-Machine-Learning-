@@ -1,7 +1,7 @@
 # Data-Science-Machine-Learning-
 Includes personal DS&amp;ML Projects 
 # Table of contents
-- Project set up
+- Project setup
 - General information
 - Data gathering
 - Machine learning models applied
