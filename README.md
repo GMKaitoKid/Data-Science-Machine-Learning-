@@ -1,8 +1,16 @@
 # Data-Science-Machine-Learning-
 Includes personal DS&amp;ML Projects 
+# Table of contents
+- Project set up
+- General information
+- Data gathering
+- Machine learning models applied
+- Data visualization
+- Reports on findings
 
-Environment setup: Minoconda 3
+## Project setup
+### Environment: Miniconda3
 Tools: Jupyter Notebook, Pandas, SciKit Learn, Matplotlib
 
-#Programming language:
+## Programming language
 Python
