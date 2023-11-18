@@ -2,7 +2,7 @@
 Includes personal DS&amp;ML Projects 
 # Table of contents
 - Project setup
-- General information
+- Project description
 - Data files/samples/sets
 - Machine learning models applied
 - Data visualization
